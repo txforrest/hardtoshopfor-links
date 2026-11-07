@@ -1,3 +1,13 @@
-# Hard To Shop For links page
+# Hard To Shop For
 
-The one-page link hub served at https://hardtoshopfor.app (GitHub Pages). It points to the three gift-guide sites. The full source for those sites lives in the private `hardtoshopfor` repo; edit `links/` there and copy it here.
+Public gift-guide hub served at https://hardtoshopfor.app through GitHub Pages.
+
+The homepage links the existing Guys, Gals, and Kids sites and hosts three additional collections directly:
+
+- `/anniversary/`
+- `/new-mothers/`
+- `/graduates/` (preschool/kindergarten through postgraduate, including trade and certificate programs)
+
+Each new collection is plain HTML, CSS, and JavaScript with budget/category filters and browser-local saved favorites. Amazon links use `hardtoshopf04-20`. The private ChatGPT Content Studio remains separate.
+
+Edit this repository for the public homepage and these three collections. Original Guys, Gals, and Kids sources remain in the private `hardtoshopfor` repository. No build step is required.
