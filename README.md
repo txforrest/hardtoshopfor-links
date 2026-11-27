@@ -8,6 +8,6 @@ The homepage links the existing Guys, Gals, and Kids sites and hosts three addit
 - `/new-mothers/`
 - `/graduates/` (preschool/kindergarten through postgraduate, including trade and certificate programs)
 
-Each new collection is plain HTML, CSS, and JavaScript with budget/category filters and browser-local saved favorites. Amazon links use `hardtoshopf04-20`. The private ChatGPT Content Studio remains separate.
+Each new collection is plain HTML, CSS, and JavaScript with budget/category filters and browser-local saved favorites. Amazon links use separate Associates tracking IDs for each of the six gift sections. The private ChatGPT Content Studio remains separate.
 
 Edit this repository for the public homepage and these three collections. Original Guys, Gals, and Kids sources remain in the private `hardtoshopfor` repository. No build step is required.
